@@ -14,7 +14,8 @@
 
 ## 📦 安装
 
-** 请注意：这是插件 plugin ，不是技能 skill。**
+<span style="color: red;"> 请注意：这是插件 plugin ，不是技能 skill。</apan>
+** 请注意：这是插件 plugin ，不是技能 skill。 ** 
 
 下载后，先把目录名改为 "qqbot-file-sender" , 改好后就像下面这样
 ```bash
