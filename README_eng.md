@@ -1,3 +1,5 @@
+[中文说明](https://github.com/gavin-luo/HermesAgent-QQbot-file-sender/edit/main/README.md)
+
 # qqbot-file-sender Plugin  
 *(Version v1.0)*
 
