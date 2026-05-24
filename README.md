@@ -1,4 +1,5 @@
 # qqbot-file-sender 插件
+(版本 v1.0)
 
 - 让大模型通过 Hermes Agent 发送物理文件到 QQ 聊天。
 - 本插件只针对 Hermes Agent 设计和开发，仅用于 QQ bot/QQ channel；
