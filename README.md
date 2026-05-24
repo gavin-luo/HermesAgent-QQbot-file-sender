@@ -72,6 +72,12 @@ hermes gateway restart
   "caption": "这是您的季度报告"
 }
 ```
+```json
+{
+  "file_path": "/home/username/ancd.zip",
+  "caption": "请查收文件"
+}
+```
 
 无需指定 `chat_id`（自动使用 `QQBOT_HOME_CHANNEL`）。
 
