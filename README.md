@@ -1,3 +1,5 @@
+[English Readme](https://github.com/gavin-luo/HermesAgent-QQbot-file-sender/blob/main/README_eng.md)
+
 # qqbot-file-sender 插件
 (版本 v1.0)
 
