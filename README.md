@@ -23,14 +23,14 @@ cp -r qqbot-file-sender ~/.hermes/plugins/
 重启 Hermes Agent：
 
 ```bash
-hermes restart
+hermes gateway restart
 ```
 
 ## 🔧 配置
 
-### 先检查 .hermes/.env
-- 如果QQ bot和 QQbot channel 正常交流对话，说明`QQBOT_HOME_CHANNEL` 、 `QQ_APP_ID` 已经存在。
-- 如果 `QQBOT_HOME_CHANNEL`变量值不存在，需要用户在 QQ客户端向当前 Agent/LLM 发送命令 `/sethome`，就会自动产生出  `QQ_CLIENT_SECRET`的变量名和值。
+### 先检查 .hermes/.env 文件内容
+- 如果QQ bot/QQbot channel 正常交流对话，说明变量`QQBOT_HOME_CHANNEL` 、 `QQ_APP_ID` 已经存在。
+- 如果 `QQBOT_HOME_CHANNEL`变量值不存在，需要用户在 QQ客户端向当前 QQbot /LLM 发送命令 `/sethome`，就会自动产生出  `QQ_CLIENT_SECRET`的变量名和值。
 
 环境变量：
 
