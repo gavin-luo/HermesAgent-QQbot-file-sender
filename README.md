@@ -79,3 +79,6 @@ hermes gateway restart
 
 # 适用条件
 本插件针对 Hermes Agent 设计和开发，在Hermes Agent v0.14.0 (2026.5.16) 版本中测试通过
+# 本技能来源
+[插件 HermesAgent-QQbot-file-sender来源](https://github.com/gavin-luo/HermesAgent-QQbot-file-sender)
+
