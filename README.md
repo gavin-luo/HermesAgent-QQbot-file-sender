@@ -37,6 +37,7 @@ hermes plugins enable qqbot-file-sender
 
 提示词：
    在使用小于 9B 参数的模型时，需要将以下提示词添加到 "USER.md"中：
+   
 "当要发送文件给用户时，如果当前对话通道为 QQ channel/QQ bot ，需使用插件plugin "qqbot-file-sender"发送文件给用户"
 
 重启 Hermes Agent：
