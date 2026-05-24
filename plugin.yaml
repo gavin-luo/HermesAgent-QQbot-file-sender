@@ -1,0 +1,10 @@
+name: qqbot-file-sender
+version: 1.0.0
+description: QQ Bot 文件发送插件 — 让大模型轻松发送物理文件
+author: Hermes Agent
+platforms:
+  - hermes
+toolsets:
+  - qqbot
+entry:
+  plugin: __init__
